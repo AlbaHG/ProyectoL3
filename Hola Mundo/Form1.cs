@@ -19,7 +19,7 @@ namespace Hola_Mundo
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("HOLA MUNDO CRUEL");
+            MessageBox.Show("El primer paso para conseguir lo que quieres es tener el coraje de librarte de lo que no quieres...");
         }
     }
 }
